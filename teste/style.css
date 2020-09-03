@@ -1,0 +1,56 @@
+/* template do e-mail enviados */
+.titulo {
+    font-weight: bold;
+    text-align: center;
+}
+
+.alinha-centro {
+    text-align:center;
+}
+
+.imagem {
+    height:96px; 
+    width:200px;
+}
+
+.fonte-alinhada {
+    text-align:center;
+    font-size: 13.3333px;
+}
+
+/* tabela */
+
+.tabelaTh { 
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(81, 130, 187);
+    text-align: center;
+    padding: 5px 10px;
+    font-size: 12px;
+    font-family: Verdana;
+    font-weight: bold;
+    background-color: rgb(81, 130, 187);
+    color: #fff;
+    border-bottom-width: 0;
+}
+
+.tabelaTr {
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(81, 130, 187);
+    text-align: center;
+}
+
+.tabelaTd {
+    color: #000;
+    padding: 5px 10px;
+    font-size: 12px;
+    font-family: Verdana;
+}
+
+.tabelaTdVencimento {
+    color: "+cor+";
+    padding: 5px 10px;
+    font-size: 12px;
+    font-family: Verdana;
+}
